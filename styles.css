@@ -1,0 +1,41 @@
+
+
+.h3,p,li{
+  font-family: 'Ovo', serif;
+}
+
+
+.container{
+  width: 400px;
+  border: 2px solid #e6e6e6;
+  box-shadow: 5px 10px #e6e6e6;
+  padding: 2px;
+  flex-wrap: wrap;
+  background-color: #f3f2f2;
+  margin: 10px;
+  overflow: hidden;
+}
+
+.h3{
+  margin: 10px;
+  border: 2px;
+}
+
+.shibaphoto{
+  vertical-align: middle;
+  text-align: center;
+  border: 10px;
+  padding: 10px;
+}
+
+.textbox{
+  padding: 10px;
+  text-align: left;
+  margin: 10px;
+  border: 2px solid #e6e6e6;
+}
+
+ul{
+  list-style: none;
+  padding:inherit;
+}
